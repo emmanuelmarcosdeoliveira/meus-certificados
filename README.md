@@ -21,7 +21,7 @@
 ## PROGRAMAÇÃO BÁSICA - PRIMEIROS PASSOS
  Descrição |Local|Carga Horária| Quando|Link de acesso|
 |-------| ----------|------|------|----|
-| Programação Básica|[Estudonauta](https://www.estudonauta.com)|20 Horas|01/2023|<a href="https://github.com/emmanuelmarcosdeoliveira/meus-certificados/blob/main/img/html%26CSS/Estudonauta/desenvolvimento_web_01-05.png" target="_blank">clique para acessar</a>|--|
+| Programação Básica|[Estudonauta](https://www.estudonauta.com)|20 Horas|01/2023|<a href="https://github.com/emmanuelmarcosdeoliveira/meus-certificados/blob/main/img/programacao_basica/programacao_basica.png" target="_blank">clique para acessar</a>|--|
 |**Carga Horária Total**| |**20 Horas**| | |
 
 
