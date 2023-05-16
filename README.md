@@ -1,6 +1,6 @@
 # Olá 😁 Sejam bem vindos.
 ## Esse é o meu repositório dos meus Certificados!
-> :memo: **note:** Abaixo estão meus certificados! 
+> :memo: **note:** Abaixo estão **meus certificados!** 
 
 ## GIT&GITHUB
 |Descrição|Local|Carga Horária| Quando |Link de acesso|
