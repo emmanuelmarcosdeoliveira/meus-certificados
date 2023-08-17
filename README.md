@@ -28,6 +28,15 @@
 |**Carga Horária Total**| |**204 Horas**| | |
 
 
+## CSS3
+ Descrição |Local|Carga Horária| Quando|Link de acesso|
+|-------| ----------|------|------|----|
+|FlexBox|[Origamid](https://www.origamid.com)|06 Horas|07/2023|<a href="https://www.origamid.com/certificate/6042a865" target="_blank">clique para acessar</a>|
+|**Carga Horária Total**| |**06 Horas**| | |
+
+
+
+
 
 ## LINGUAGEM JAVASCRIPT
 |Descrição|Local|Carga Horária| Quando |Link de acesso|
