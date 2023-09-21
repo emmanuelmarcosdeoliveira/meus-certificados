@@ -32,7 +32,8 @@
  Descrição |Local|Carga Horária| Quando|Link de acesso|
 |-------| ----------|------|------|----|
 |FlexBox|[Origamid](https://www.origamid.com)|06 Horas|07/2023|<a href="https://www.origamid.com/certificate/6042a865" target="_blank">clique para acessar</a>|
-|**Carga Horária Total**| |**06 Horas**| | |
+|CSS Avançado|[Origamid](https://www.origamid.com)|18 Horas|09/2023|<a href="https://www.origamid.com/certificate/28885750" target="_blank">clique para acessar</a>|
+|**Carga Horária Total**| |**24 Horas**| | |
 
 
 
