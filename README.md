@@ -31,9 +31,10 @@
 ## CSS3
  Descrição |Local|Carga Horária| Quando|Link de acesso|
 |-------| ----------|------|------|----|
+|CSS Grid-Layout|[Origamid](https://www.origamid.com)|10 Horas|10/2023|<a href="https://www.origamid.com/certificate/0a0d1d28" target="_blank">clique para acessar</a>|
 |FlexBox|[Origamid](https://www.origamid.com)|06 Horas|07/2023|<a href="https://www.origamid.com/certificate/6042a865" target="_blank">clique para acessar</a>|
 |CSS Avançado|[Origamid](https://www.origamid.com)|18 Horas|09/2023|<a href="https://www.origamid.com/certificate/28885750" target="_blank">clique para acessar</a>|
-|**Carga Horária Total**| |**24 Horas**| | |
+|**Carga Horária Total**| |**34 Horas**| | |
 
 
 
