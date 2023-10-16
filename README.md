@@ -2,6 +2,12 @@
 ## Esse é o meu repositório dos meus Certificados!
 > :memo: **note:** Abaixo estão **meus certificados!** 
 
+## SASS
+|Descrição|Local|Carga Horária| Quando |Link de acesso|
+|---------|-----|-------------|-------|---------------|
+|CSS com SASS|[Origamid](https://www.origamid.com/)|12 Horas|10/2023|<a href="https://www.origamid.com/certificate/7a3acf47" target="_blank">clique para acessar</a>|
+|**Carga Horária Total**| |**12 Horas**| | |
+
 ## GIT&GITHUB
 |Descrição|Local|Carga Horária| Quando |Link de acesso|
 |---------|-----|-------------|-------|---------------|
