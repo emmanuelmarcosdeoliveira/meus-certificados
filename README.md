@@ -1,6 +1,13 @@
 # Olá 😁 Sejam bem vindos.
 ## Esse é o meu repositório dos meus Certificados!
-> :memo: **note:** Abaixo estão **meus certificados!** 
+> :memo: **note:** Abaixo estão **meus certificados!**
+
+## REACT 
+ Descrição |Local|Carga Horária| Quando|Link de acesso|
+|-------| ----------|------|------|----|
+|Aplicação front-end em ReactJS|[Rocketseat]([https://app.rocketseat.com.br/)](https://www.rocketseat.com.br/discover)|05 Horas|04/2024|<a href="https://app.rocketseat.com.br/certificates/439bc047-0d49-4107-85f5-ee90c7ecb939" target="_blank">clique para acessar</a>|
+|**Carga Horária Total**| |**05 Horas**| | |
+ 
 
 ## AUTOMAÇÃO FRONT-END | NPM - NODE PACKAGE MANAGER
  Descrição |Local|Carga Horária| Quando|Link de acesso|
