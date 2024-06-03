@@ -7,6 +7,15 @@
 |-------| ----------|------|------|----|
 |Aplicação front-end em ReactJS|[Rocketseat](https://www.rocketseat.com.br/discover)|05 Horas|04/2024|<a href="https://app.rocketseat.com.br/certificates/439bc047-0d49-4107-85f5-ee90c7ecb939" target="_blank">clique para acessar</a>|
 |**Carga Horária Total**| |**05 Horas**| | |
+
+## LINGUAGEM JAVASCRIPT
+|Descrição|Local|Carga Horária| Quando |Link de acesso|
+|---------|-----|-------------|-------|---------------|
+|JavaScript Completo ES6|[Origamid](https://www.origamid.com/)|74 Horas|05/2024|<a href=https://www.origamid.com/certificate/3d12329c target="_blank">clique para acessar</a>|   
+|Linguagem JavaScript|[Estudonauta](https://www.estudonauta.com)|40 Horas|03/2023|<a href="https://github.com/emmanuelmarcosdeoliveira/meus-certificados/blob/main/img/JavaScript/estudonauta/Linguagem_JavaScript.png" target="_blank">clique para acessar</a>|
+|Lógica de programação<br>com JavaScript|[Cubos Academy](https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=141084695032&hsa_ad=618464016440&hsa_src=g&hsa_tgt=kwd-1268638036456&hsa_kw=cubos%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6vyiBhB_EiwAQJRopnnb4nUm1bOmXHeZITdF0GajnTtQX48xQAFWhkQspjpFGLFT05EtAhoCmZQQAvD_BwE)|3 Horas|2/2022|<a href="https://github.com/emmanuelmarcosdeoliveira/meus-certificados/blob/main/img/JavaScript/cubos_academy/mini_curso_javascript.png" target="_blank">clique para acessar</a>|
+|**Carga Horária Total**| |**117 Horas**| | |
+
  
 
 ## AUTOMAÇÃO FRONT-END | NPM - NODE PACKAGE MANAGER
@@ -21,13 +30,6 @@
 |CSS com SASS|[Origamid](https://www.origamid.com/)|12 Horas|10/2023|<a href="https://www.origamid.com/certificate/7a3acf47" target="_blank">clique para acessar</a>|
 |**Carga Horária Total**| |**12 Horas**| | |
 
-## LINGUAGEM JAVASCRIPT
-|Descrição|Local|Carga Horária| Quando |Link de acesso|
-|---------|-----|-------------|-------|---------------|
-|JavaScript Completo ES6|[Origamid](https://www.origamid.com/)|74 Horas|05/2024|<a href=https://www.origamid.com/certificate/3d12329c target="_blank">clique para acessar</a>|   
-|Linguagem JavaScript|[Estudonauta](https://www.estudonauta.com)|40 Horas|03/2023|<a href="https://github.com/emmanuelmarcosdeoliveira/meus-certificados/blob/main/img/JavaScript/estudonauta/Linguagem_JavaScript.png" target="_blank">clique para acessar</a>|
-|Lógica de programação<br>com JavaScript|[Cubos Academy](https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=141084695032&hsa_ad=618464016440&hsa_src=g&hsa_tgt=kwd-1268638036456&hsa_kw=cubos%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6vyiBhB_EiwAQJRopnnb4nUm1bOmXHeZITdF0GajnTtQX48xQAFWhkQspjpFGLFT05EtAhoCmZQQAvD_BwE)|3 Horas|2/2022|<a href="https://github.com/emmanuelmarcosdeoliveira/meus-certificados/blob/main/img/JavaScript/cubos_academy/mini_curso_javascript.png" target="_blank">clique para acessar</a>|
-|**Carga Horária Total**| |**117 Horas**| | |
 
 
 ## UI/UX
